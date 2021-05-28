@@ -3,10 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {User} from "./06-onclick/06";
+
+
+const sentence = 'Hello my friends!';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <User />
   </React.StrictMode>,
   document.getElementById('root')
 );
