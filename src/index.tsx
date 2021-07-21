@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {User} from "./06-onclick/06";
+import './11-promise/promise1'
 
 
 const sentence = 'Hello my friends!';
